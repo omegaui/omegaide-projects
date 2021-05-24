@@ -1,0 +1,15 @@
+>JDK Path
+-/usr/lib/jvm/jdk-16
+>Compile_Time
+-
+>Run_Time
+-
+>Main Class
+-omega.plugin.PluginInfoManager
+>Non-Java Project
+-false
+>Opened Editors on Main Tab Panel
+-/home/arham/Documents/Omega Projects/Plugin Center/src/omega/plugin/PluginInfoManager.java
+>Project Classpath : Required Resource Roots
+-/home/arham/Documents/Omega IDE/res
+-/home/arham/Pictures

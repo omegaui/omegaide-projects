@@ -1,0 +1,16 @@
+>JDK Path
+-/usr/lib/jvm/jdk-16
+>Compile_Time
+-
+>Run_Time
+-
+>Main Class
+-main.FileTest
+>Non-Java Project
+-false
+>Opened Editors on Main Tab Panel
+-/home/arham/Documents/Omega Projects/UI Test/src/main/FileTest.java
+>Project Classpath : Required Jars
+-/home/arham/Documents/Omega IDE/lib/java3D_1.5.1/j3dcore.jar
+-/home/arham/Documents/Omega IDE/lib/java3D_1.5.1/j3dutils.jar
+-/home/arham/Documents/Omega IDE/lib/java3D_1.5.1/vecmath.jar

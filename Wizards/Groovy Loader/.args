@@ -1,0 +1,8 @@
+>Compile Time Argument
+-
+>Run Time Argument
+-groovy Main.groovy
+>Compile Time Working Directory
+-
+>Run Time Working Directory
+-/home/ubuntu/Documents/Omega Projects/Groovy Loader/src/omega

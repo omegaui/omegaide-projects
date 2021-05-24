@@ -1,0 +1,17 @@
+byte
+short
+int
+float
+double
+long
+boolean
+char
+switch
+case
+yield
+return
+throw
+throws
+if
+else
+instanceof

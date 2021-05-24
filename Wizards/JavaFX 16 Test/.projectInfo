@@ -1,0 +1,20 @@
+>JDK Path
+-/usr/lib/jvm/jdk-16
+>Compile_Time
+-
+>Run_Time
+-
+>Main Class
+-main.Test
+>Non-Java Project
+-false
+>Opened Editors on Main Tab Panel
+-/home/arham/Documents/Omega Projects/JavaFX 16 Test/src/main/Test.java
+>Project Classpath : Required Modules
+-/home/arham/javafx-sdk-16/lib/javafx.base.jar
+-/home/arham/javafx-sdk-16/lib/javafx.controls.jar
+-/home/arham/javafx-sdk-16/lib/javafx.fxml.jar
+-/home/arham/javafx-sdk-16/lib/javafx.graphics.jar
+-/home/arham/javafx-sdk-16/lib/javafx.media.jar
+-/home/arham/javafx-sdk-16/lib/javafx.swing.jar
+-/home/arham/javafx-sdk-16/lib/javafx.web.jar

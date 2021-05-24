@@ -1,0 +1,17 @@
+>JDK Path
+-/usr/lib/jvm/jdk-16
+>Compile_Time
+-
+>Run_Time
+-
+>Main Class
+-omega.Main
+>Non-Java Project
+-false
+>Opened Editors on Main Tab Panel
+-/home/ubuntu/Documents/Omega Projects/Process Executor/src/omega/Main.java
+>Project Classpath : Required Jars
+-/home/ubuntu/Documents/Omega IDE/lib/flatlaf-0.46.jar
+-/home/ubuntu/Documents/Omega IDE/lib/jfontchooser-1.0.5.jar
+>Project Classpath : Required Resource Roots
+-/home/ubuntu/Documents/Omega IDE/res

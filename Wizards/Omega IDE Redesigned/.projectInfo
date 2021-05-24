@@ -1,0 +1,19 @@
+>JDK Path
+-/usr/lib/jvm/jdk-16
+>Compile_Time
+-
+>Run_Time
+-
+>Main Class
+-test.FlexUITest
+>Non-Java Project
+-false
+>Opened Editors on Main Tab Panel
+-/home/arham/Documents/Omega Projects/Omega IDE Redesigned/src/test/FlexUITest.java
+-/home/arham/Documents/Omega Projects/Omega IDE Redesigned/src/omega/flexui/ResourceManager.java
+-/home/arham/Documents/Omega Projects/Omega IDE Redesigned/src/omega/flexui/FlexButton.java
+-/home/arham/Documents/Omega Projects/Omega IDE Redesigned/src/omega/flexui/FlexPanel.java
+-/home/arham/Documents/Omega Projects/Omega IDE FX/src/omega/ide/Screen.java
+>Project Classpath : Required Resource Roots
+-/home/arham/Documents/Omega IDE/res
+-/home/arham/Documents/Omega Projects/Omega IDE Redesigned/res

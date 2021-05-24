@@ -1,0 +1,15 @@
+>JDK Path
+-/usr/lib/jvm/jdk-16
+>Compile_Time
+-
+>Run_Time
+-
+>Main Class
+-omega.test.ExecutorTest
+>Non-Java Project
+-false
+>Opened Editors on Main Tab Panel
+-/home/ubuntu/Documents/Omega Projects/Gradle Build Automation/src/omega/instant/support/build/gradle/GradleProcessExecutor.java
+>Project Classpath : Required Jars
+-/usr/lib/gradle/lib/gradle-wrapper-7.0.jar
+-/usr/lib/gradle/lib/groovy-3.0.7.jar
