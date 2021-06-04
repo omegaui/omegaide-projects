@@ -5,11 +5,12 @@
 >Run_Time
 -
 >Main Class
--omega.utils.FontChooser
+-omega.instant.support.universal.UniversalSettingsWizard
 >Non-Java Project
 -false
 >Opened Editors on Main Tab Panel
--/home/ubuntu/Documents/Omega Projects/Wizards/src/omega/utils/FontChooser.java
+-/home/ubuntu/Documents/Omega Projects/Wizards/src/omega/instant/support/universal/UniversalSettingsWizard.java
+-/home/ubuntu/Documents/Omega Projects/Wizards/src/omega/utils/UIManager.java
 >Project Classpath : Required Jars
 -/home/ubuntu/Documents/Omega IDE/lib/flatlaf-0.46.jar
 >Project Classpath : Required Resource Roots
